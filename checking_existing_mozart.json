@@ -1,0 +1,198 @@
+{
+  "timestamp": "2025-02-26T00:01:00.424471",
+  "total_files": 15,
+  "valid_files": 11,
+  "files_with_violations": 4,
+  "analyses": [
+    {
+      "filename": "Mozart_12_Variations_on_Ah_vous_dirai-je_Maman_K.265.mxl",
+      "key": "C major",
+      "time_signature": "<music21.meter.TimeSignature 2/4>",
+      "measures": 650,
+      "valid": true,
+      "violations": [
+        "Unusual leap (23 semitones) at position 2514"
+      ]
+    },
+    {
+      "filename": "22Symphony_4022.mxl",
+      "key": "g minor",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 80,
+      "valid": true,
+      "violations": [
+        "Unusual leap (22 semitones) at position 238"
+      ]
+    },
+    {
+      "filename": "Mozart_-_Lacrimosa_from_the_Requiem_in_D_minor.mxl",
+      "key": "d minor",
+      "time_signature": "<music21.meter.TimeSignature 12/8>",
+      "measures": 60,
+      "valid": true,
+      "violations": [
+        "Unusual leap (20 semitones) at position 39"
+      ]
+    },
+    {
+      "filename": "Mozart_Sonata_No._16_in_C_Major_Mvt_I_Allegro_1788.mxl",
+      "key": "C major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 146,
+      "valid": false,
+      "violations": [
+        "Unusual leap (21 semitones) at position 856",
+        "Unusual leap (20 semitones) at position 870",
+        "Unusual leap (20 semitones) at position 894",
+        "Unusual leap (23 semitones) at position 1078",
+        "Unusual leap (21 semitones) at position 1256"
+      ]
+    },
+    {
+      "filename": "Mozart_K.488_Piano_Concerto_23_in_A_2nd_mov._Adagio_for_piano_solo.mxl",
+      "key": "f# minor",
+      "time_signature": "<music21.meter.TimeSignature 6/8>",
+      "measures": 198,
+      "valid": false,
+      "violations": [
+        "Unusual leap (21 semitones) at position 716",
+        "Unusual leap (21 semitones) at position 811",
+        "Unusual leap (21 semitones) at position 1318",
+        "Unusual leap (26 semitones) at position 1324",
+        "Unusual leap (21 semitones) at position 1342",
+        "Unusual leap (26 semitones) at position 1693"
+      ]
+    },
+    {
+      "filename": "Minuet_in_G_Major_KV_1.mxl",
+      "key": "G major",
+      "time_signature": "<music21.meter.TimeSignature 3/4>",
+      "measures": 72,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "Mozart_-_Symphony_No.25_-_Piano_Solo.mxl",
+      "key": "g minor",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 426,
+      "valid": false,
+      "violations": [
+        "Unusual leap (21 semitones) at position 154",
+        "Unusual leap (21 semitones) at position 315",
+        "Unusual leap (27 semitones) at position 323",
+        "Unusual leap (27 semitones) at position 331",
+        "Unusual leap (27 semitones) at position 539",
+        "Unusual leap (22 semitones) at position 559",
+        "Unusual leap (23 semitones) at position 708",
+        "Unusual leap (21 semitones) at position 914",
+        "Unusual leap (20 semitones) at position 1088",
+        "Unusual leap (25 semitones) at position 1096",
+        "Unusual leap (25 semitones) at position 1104",
+        "Unusual leap (22 semitones) at position 1112",
+        "Unusual leap (22 semitones) at position 1350",
+        "Unusual leap (21 semitones) at position 1483",
+        "Unusual leap (21 semitones) at position 1512",
+        "Unusual leap (23 semitones) at position 1662",
+        "Unusual leap (21 semitones) at position 1790",
+        "Unusual leap (21 semitones) at position 1794",
+        "Unusual leap (22 semitones) at position 1802",
+        "Unusual leap (21 semitones) at position 1914",
+        "Unusual leap (21 semitones) at position 1922",
+        "Unusual leap (22 semitones) at position 1954",
+        "Unusual leap (21 semitones) at position 2198",
+        "Unusual leap (21 semitones) at position 2468",
+        "Unusual leap (21 semitones) at position 2472",
+        "Unusual leap (20 semitones) at position 2480",
+        "Unusual leap (22 semitones) at position 2491",
+        "Unusual leap (21 semitones) at position 2495",
+        "Unusual leap (25 semitones) at position 2503",
+        "Unusual leap (26 semitones) at position 2556",
+        "Unusual leap (20 semitones) at position 2605"
+      ]
+    },
+    {
+      "filename": "WA_Mozart_Marche_Turque_Turkish_March_fingered.mxl",
+      "key": "A major",
+      "time_signature": "<music21.meter.TimeSignature 2/4>",
+      "measures": 274,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "Symphony_No.40_Mozart.mxl",
+      "key": "d minor",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 32,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "Piano_Sonata_No.11_in_A_major-K.331W._A._Mozart.mxl",
+      "key": "A major",
+      "time_signature": "<music21.meter.TimeSignature 6/8>",
+      "measures": 750,
+      "valid": false,
+      "violations": [
+        "Unusual leap (20 semitones) at position 1901",
+        "Unusual leap (22 semitones) at position 4506",
+        "Unusual leap (34 semitones) at position 4887",
+        "Unusual leap (34 semitones) at position 4891",
+        "Unusual leap (43 semitones) at position 4903",
+        "Unusual leap (40 semitones) at position 4911",
+        "Unusual leap (26 semitones) at position 4931",
+        "Unusual leap (37 semitones) at position 4935",
+        "Unusual leap (26 semitones) at position 5041",
+        "Unusual leap (38 semitones) at position 5061",
+        "Unusual leap (22 semitones) at position 5073",
+        "Unusual leap (35 semitones) at position 5089"
+      ]
+    },
+    {
+      "filename": "Piano_Sonata_No.12_in_F_major_K.332300k__Wolfgang_Amadeus_Mozart_S10_strings_version.musicxml.mxl",
+      "key": "F major",
+      "time_signature": "<music21.meter.TimeSignature 3/4>",
+      "measures": 56,
+      "valid": true,
+      "violations": [
+        "Unusual leap (20 semitones) at position 272"
+      ]
+    },
+    {
+      "filename": "Mozart_-_Symphony_No._40.mxl",
+      "key": "g minor",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 48,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "Minuet_in_F_Major_-_Mozart_K5.mxl",
+      "key": "F major",
+      "time_signature": "<music21.meter.TimeSignature 3/4>",
+      "measures": 44,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "Mozart_Minuet_in_F_Major_K2_easy.mxl",
+      "key": "F major",
+      "time_signature": "<music21.meter.TimeSignature 3/4>",
+      "measures": 48,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "Piano_Sonata_No.8_in_A_minor_K.310300d__Wolfgang_Amadeus_Mozart.mxl",
+      "key": "a minor",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 399,
+      "valid": true,
+      "violations": [
+        "Unusual leap (21 semitones) at position 1822",
+        "Unusual leap (20 semitones) at position 1927",
+        "Unusual leap (21 semitones) at position 2811"
+      ]
+    }
+  ]
+}

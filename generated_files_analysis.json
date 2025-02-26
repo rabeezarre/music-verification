@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-02-26T00:36:08.043036",
+  "total_files": 2,
+  "valid_files": 1,
+  "files_with_violations": 1,
+  "analyses": [
+    {
+      "filename": "example_corrected.xml",
+      "key": "F major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 4,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "example.xml",
+      "key": "F major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 4,
+      "valid": false,
+      "violations": [
+        "Unusual leap (43 semitones) at position 2",
+        "Unusual leap (40 semitones) at position 4",
+        "Unusual leap (33 semitones) at position 7",
+        "Unusual leap (38 semitones) at position 10",
+        "Unusual leap (59 semitones) at position 11"
+      ]
+    }
+  ]
+}
