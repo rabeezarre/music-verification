@@ -1,14 +1,76 @@
 {
-  "timestamp": "2025-02-26T00:36:08.043036",
-  "total_files": 2,
-  "valid_files": 1,
-  "files_with_violations": 1,
+  "timestamp": "2025-03-05T11:52:47.526141",
+  "total_files": 7,
+  "valid_files": 5,
+  "files_with_violations": 2,
   "analyses": [
+    {
+      "filename": "example5.xml",
+      "key": "E- major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 6,
+      "valid": true,
+      "violations": [
+        "Unusual leap (26 semitones) at position 22"
+      ]
+    },
+    {
+      "filename": "example4.xml",
+      "key": "C major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 17,
+      "valid": false,
+      "violations": [
+        "Unusual leap (23 semitones) at position 10",
+        "Unusual leap (23 semitones) at position 45",
+        "Unusual leap (30 semitones) at position 50",
+        "Unusual leap (34 semitones) at position 60",
+        "Unusual leap (49 semitones) at position 61",
+        "Unusual leap (46 semitones) at position 62",
+        "Unusual leap (62 semitones) at position 63",
+        "Unusual leap (71 semitones) at position 64",
+        "Unusual leap (62 semitones) at position 65",
+        "Unusual leap (46 semitones) at position 66",
+        "Unusual leap (62 semitones) at position 67",
+        "Unusual leap (59 semitones) at position 68",
+        "Unusual leap (42 semitones) at position 70",
+        "Unusual leap (38 semitones) at position 75"
+      ]
+    },
+    {
+      "filename": "example3.xml",
+      "key": "G major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 16,
+      "valid": true,
+      "violations": [
+        "Unusual leap (30 semitones) at position 4",
+        "Unusual leap (26 semitones) at position 5"
+      ]
+    },
+    {
+      "filename": "example2.xml",
+      "key": "C major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 16,
+      "valid": true,
+      "violations": [
+        "Unusual leap (23 semitones) at position 10"
+      ]
+    },
     {
       "filename": "example_corrected.xml",
       "key": "F major",
       "time_signature": "<music21.meter.TimeSignature 4/4>",
       "measures": 4,
+      "valid": true,
+      "violations": []
+    },
+    {
+      "filename": "example4_corrected.xml",
+      "key": "C major",
+      "time_signature": "<music21.meter.TimeSignature 4/4>",
+      "measures": 17,
       "valid": true,
       "violations": []
     },
